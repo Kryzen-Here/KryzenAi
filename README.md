@@ -630,8 +630,8 @@ THE SOFTWARE.
 
               Built for the void. Refined in the darkness.
 
-         Report a Bug      https://github.com/yourusername/kryzen-ai/issues
-         Request Feature   https://github.com/yourusername/kryzen-ai/issues
+         Report a Bug      https://github.com/Kryzen-Here/KryzenAi/issues
+         Request Feature   https://github.com/Kryzen-Here/KryzenAi/issues
          Get Groq API Key  https://console.groq.com/keys
 
 ---
